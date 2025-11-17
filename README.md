@@ -138,7 +138,7 @@ public class LatifaTaybi {
 
 <div align="center">
 
-> *"Coder, c'est transformer une idée en réalité… une ligne à la fois !"*
+> *"Coder, c'est transformer une idée en réalité…!"*
 
 ### 🎯 **Mon Objectif**
 **Apprendre • Créer • Partager**
