@@ -97,8 +97,6 @@ public class LatifaTaybi {
 - Gestion des commandes
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ⚡ Spring Boot API
