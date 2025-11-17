@@ -15,7 +15,7 @@
 
 ## 🎨 **À Propos de Moi**
 
-\`\`\`javascript
+```javascript
 const latifa = {
     role: "Développeuse Full Stack",
     passion: ["Web Development", "Clean Code", "User Experience"],
@@ -23,7 +23,7 @@ const latifa = {
     location: "🌍 Maroc",
     philosophy: "Transformer les idées en réalité, une ligne de code à la fois"
 };
-\`\`\`
+```
 
 💡 **Curieuse et motivée**, je crée des applications **performantes**, **propres** et **élégantes** — autant côté **frontend** que **backend**.  
 🌟 J'accorde une attention particulière à l'**expérience utilisateur** et aux **bonnes pratiques de développement**.
